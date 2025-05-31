@@ -1,2 +1,1 @@
-# HotDogMania
-
+# hot-dog-mania-movil
